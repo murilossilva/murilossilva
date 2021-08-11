@@ -17,7 +17,7 @@
 -  🐧 Linux User! ~~Eu uso Ubuntu btw~~
 -  😄 Amante de problemas lógicos e entusiasta de UX Design!
 
-  <h4 align="left"> Em progresso </h3>
+  <h4 align="left"> Em progresso 🏃🏽‍♂️ </h3>
   
 -  📚 [Bootcamp Banco Carrefour Data Engineer](https://web.digitalinnovation.one/track/banco-carrefour-data-engineer) pela Digital Innovation One
 -  📚 [Bootcamp Cognizant Cloud Data Engineer](https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path) pela Digital Innovation One
@@ -34,3 +34,4 @@
   <a href="https://www.linkedin.com/in/murilossilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=murilossilva&label=Profile%20views&color=0e75b6&style=flat" alt="murilossilva" /> </p>
 
+![Snake animation](https://github.com/murilossilva/murilossilva/blob/output/github-contribution-grid-snake.svg)
