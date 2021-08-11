@@ -9,7 +9,7 @@
 </div>
 
   ##
- <h4 align="left"> Resumo pessoal</h3>
+ <h3 align="left"> Resumo pessoal</h3>
    
 -  👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas pelo SENAC (no primeiro semestre, 2021)
 -  🌱 Estudando: Data Enginnering & Data Science e aprimorando conhecimentos em Python e SQL 
@@ -17,7 +17,7 @@
 -  🐧 Linux User! ~~Eu uso Ubuntu btw~~
 -  😄 Amante de problemas lógicos e entusiasta de UX Design!
 
-  <h4 align="left"> Em progresso 🏃🏽‍♂️ </h3>
+  <h3 align="left"> Em progresso 🏃🏽‍♂️ </h3>
   
 -  📚 [Bootcamp Banco Carrefour Data Engineer](https://web.digitalinnovation.one/track/banco-carrefour-data-engineer) pela Digital Innovation One
 -  📚 [Bootcamp Cognizant Cloud Data Engineer](https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path) pela Digital Innovation One
