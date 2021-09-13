@@ -19,7 +19,6 @@
 
   <h3 align="left"> Em progresso 🏃🏽‍♂️ </h3>
   
--  📚 [Bootcamp Banco Carrefour Data Engineer](https://web.digitalinnovation.one/track/banco-carrefour-data-engineer) pela Digital Innovation One
 -  📚 [Bootcamp Cognizant Cloud Data Engineer](https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path) pela Digital Innovation One
 
 ##
