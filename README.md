@@ -11,7 +11,7 @@
   ##
  <h3 align="left"> Resumo pessoal</h3>
    
--  👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas pelo SENAC (no primeiro semestre, 2021)
+-  👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas pelo SENAC (no segundo semestre, 2021)
 -  🌱 Estudando: Data Enginnering & Data Science e aprimorando conhecimentos em Python e SQL 
 -  💻 Possuo aprendizados em Docker, MongoDB e PostgreSQL, além de conhecimento avançado em Excel
 -  🐧 Linux User! ~~Eu uso Ubuntu btw~~
