@@ -18,7 +18,7 @@
 -  😄 Amante de problemas lógicos e entusiasta de UX Design!
   
   <h3 aligh="left"> Conquistas Recentes🏆 </h3>
-- 💻 [Curso Inova.Ação Afro](https://www.linkedin.com/feed/update/urn:li:activity:6871471952826023936/)
+- 💻 [Curso Inova.Ação Afro] (https://www.linkedin.com/feed/update/urn:li:activity:6871471952826023936/)
 
   <h3 align="left"> Em progresso 🏃🏽‍♂️ </h3>
   
