@@ -13,9 +13,12 @@
    
 -  👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas pelo SENAC (no segundo semestre, 2021)
 -  🌱 Estudando: Data Enginnering & Data Science e aprimorando conhecimentos em Python e SQL 
--  💻 Possuo aprendizados em Docker, MongoDB e PostgreSQL, além de conhecimento avançado em Excel
+-  💻 Possuo aprendizados em Docker, MongoDB e PostgreSQL.
 -  🐧 Linux User! ~~Eu uso Ubuntu btw~~
 -  😄 Amante de problemas lógicos e entusiasta de UX Design!
+  
+  <h3 aligh="left"> Conquistas Recentes🏆 </h3>
+- 💻 [Curso Inova.Ação Afro](https://www.linkedin.com/feed/update/urn:li:activity:6871471952826023936/)
 
   <h3 align="left"> Em progresso 🏃🏽‍♂️ </h3>
   
