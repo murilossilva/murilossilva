@@ -18,11 +18,13 @@
 -  😄 Amante de problemas lógicos e entusiasta de UX Design!
   
   <h3 aligh="left"> Conquistas Recentes🏆 </h3>
-- 💻 [Curso Inova.Ação Afro] (https://www.linkedin.com/feed/update/urn:li:activity:6871471952826023936/)
+  
+- 💻 [Curso Inova.Ação Afro](https://www.linkedin.com/feed/update/urn:li:activity:6871471952826023936/), curso voltado para aprimoramento em linguagem Python e Django Framework.
 
   <h3 align="left"> Em progresso 🏃🏽‍♂️ </h3>
   
--  📚 [Bootcamp Cognizant Cloud Data Engineer](https://web.digitalinnovation.one/track/cognizant-cloud-data-engineer?tab=path) pela Digital Innovation One
+-  Construção de um WebApp chamado Papilo voltado para ensino sobre Educação Sexual, previsão de entrega segunda quinzena de Dezembro de 2021.
+-  Aprofundando conhecimentos em APIs REST pela plataforma da [Udemy](https://www.udemy.com/course/criando-apis-rest-com-django-rest-framework-essencial/learn/lecture/17827716?start=15#overview)
 
 ##
  <div>
