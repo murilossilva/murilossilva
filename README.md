@@ -33,7 +33,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilossilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
    <div> 
- 	<a href="https://www.twitter.com/printmurilo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:murilossilva@usp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/murilossilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=murilossilva&label=Profile%20views&color=0e75b6&style=flat" alt="murilossilva" /> </p>
