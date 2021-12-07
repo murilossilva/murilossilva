@@ -21,10 +21,12 @@
   <h3 aligh="left"> Conquistas Recentes 🏆</h3>
   
 - 💻 [Curso Inova.Ação Afro](https://www.linkedin.com/feed/update/urn:li:activity:6871471952826023936/), curso voltado para aprimoramento em linguagem Python e Django Framework.
+- 🌐 Lançamento versão Beta do WebApp sobre Educação Sexual chamado [Papilo](http://papilo.com.br/).
 
 <h3 align="left"> Em progresso 🏃‍♂️</h3>
   
 -  Aprofundando conhecimentos em APIs REST pela plataforma da [Udemy](https://www.udemy.com/course/criando-apis-rest-com-django-rest-framework-essencial/learn/lecture/17827716?start=15#overview)
+-  Refinamento do WebApp Papilo e o lançamento da v1.0.0 para operar corretamente em dispositivos Mobile.
 
 ##
  <div>
