@@ -16,7 +16,7 @@
 -  💻 Possuo aprendizados em Docker, MongoDB e PostgreSQL.
 -  🐧 Linux User! ~~Eu uso Ubuntu btw~~
 -  😄 Amante de problemas lógicos e entusiasta de UX Design!
--  👨‍🏫 Um dos idealizadores além de ser o programador do [WebApp Papilo](http://papilo.com.br/)! ~~Ainda está em fase beta~~
+-  👨‍🏫 Um dos idealizadores além de ser o programador do [WebApp Papilo](http://papilo.com.br/)! ~~Ainda está em fase beta, operando apenas em Desktops~~
   
   <h3 aligh="left"> Conquistas Recentes 🏆</h3>
   
