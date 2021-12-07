@@ -16,6 +16,7 @@
 -  💻 Possuo aprendizados em Docker, MongoDB e PostgreSQL.
 -  🐧 Linux User! ~~Eu uso Ubuntu btw~~
 -  😄 Amante de problemas lógicos e entusiasta de UX Design!
+-  👨‍🏫 Um dos idealizadores além de ser o programador do [WebApp Papilo](http://papilo.com.br/)! ~~Ainda está em fase beta~~
   
   <h3 aligh="left"> Conquistas Recentes 🏆</h3>
   
@@ -23,7 +24,6 @@
 
 <h3 align="left"> Em progresso 🏃‍♂️</h3>
   
--  Construção de um WebApp chamado Papilo voltado para ensino sobre Educação Sexual, previsão de entrega segunda quinzena de Dezembro de 2021.
 -  Aprofundando conhecimentos em APIs REST pela plataforma da [Udemy](https://www.udemy.com/course/criando-apis-rest-com-django-rest-framework-essencial/learn/lecture/17827716?start=15#overview)
 
 ##
