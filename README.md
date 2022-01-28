@@ -1,5 +1,5 @@
 <h2 align="center"> Hey 👋, Eu sou o Murilo!
-<h3 align="center"> Um Dev Back-End Junior, interessado por Data Engineer e eterno aprendiz   
+<h3 align="center"> Um Dev Back-End Junior, interessado por Software Engineer e eterno aprendiz   
 <div style="display: inline_block"><br>
   <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Murilo-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
@@ -12,7 +12,7 @@
  <h3 align="left"> Resumo pessoal</h3>
    
 -  👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas pelo SENAC (no segundo semestre, 2021)
--  🌱 Estudando: Data Enginnering & Data Science e aprimorando conhecimentos em Python e SQL 
+-  🌱 Estudando: Django e Arquitetura de Sistemas enquanto aprimoro conhecimentos em Python e SQL 
 -  💻 Possuo aprendizados em Docker, MongoDB e PostgreSQL.
 -  🐧 Linux User! ~~Eu uso Ubuntu btw~~
 -  😄 Amante de problemas lógicos e entusiasta de UX Design!
