@@ -1,5 +1,5 @@
 <h2 align="center"> Hey 👋, Eu sou o Murilo!
-<h3 align="center"> Um Dev Back-End Junior, interessado por Software Engineer e eterno aprendiz   
+<h3 align="center"> Um Dev Front-End Junior, interessado por tecnologia e eterno aprendiz   
 <div style="display: inline_block"><br>
   <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Murilo-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
@@ -11,22 +11,24 @@
   ##
  <h3 align="left"> Resumo pessoal</h3>
    
--  👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas pelo SENAC (no segundo semestre, 2021)
--  🌱 Estudando: Django e Arquitetura de Sistemas enquanto aprimoro conhecimentos em Python e SQL 
--  💻 Possuo aprendizados em Docker, MongoDB e PostgreSQL.
+-  👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas pelo SENAC (no quarto semestre, 2023)
+-  🌱 Estudando: Serviços e conceitos do Microsoft Azure para certificação AZ-900
+-  💻 Possuo aprendizados em Angular, COBOL, Python e AWS Cloud.
 -  🐧 Linux User! ~~Eu uso Ubuntu btw~~
 -  😄 Amante de problemas lógicos e entusiasta de UX Design!
--  👨‍🏫 Um dos idealizadores além de ser o programador do [WebApp Papilo](http://papilo.com.br/)! ~~Ainda está em fase beta, operando apenas em Desktops~~
+-  👨‍🏫 Um dos idealizadores além de ser o programador do [WebApp Papilo](http://papilo.com.br/)!
   
   <h3 aligh="left"> Conquistas Recentes 🏆</h3>
   
-- 💻 [Curso Inova.Ação Afro](https://www.linkedin.com/feed/update/urn:li:activity:6871471952826023936/), curso voltado para aprimoramento em linguagem Python e Django Framework.
-- 🌐 Lançamento versão Beta do WebApp sobre Educação Sexual chamado [Papilo](http://papilo.com.br/).
+- 💻 [Certificação AWS Cloud Practitioner](https://www.linkedin.com/feed/update/urn:li:activity:6996074539075940354/)
+- 📜 [Certificação Entendendo TypeScript](https://www.linkedin.com/feed/update/urn:li:activity:7013873101625028609/), curso  voltado para conceitos mais avançados da linguagem, como Generics, Decorators, integração com ferramentas de build e etc.
+- 🌐 Lançamento do WebApp sobre Educação Sexual chamado [Papilo](http://papilo.com.br/).
+- 📰 Publicação do Papilo no [Jornal da USP](https://jornal.usp.br/diversidade/estudantes-de-biologia-da-usp-criam-plataforma-de-educacao-sexual/)
 
 <h3 align="left"> Em progresso 🏃‍♂️</h3>
   
--  Aprofundando conhecimentos em APIs REST pela plataforma da [Udemy](https://www.udemy.com/course/criando-apis-rest-com-django-rest-framework-essencial/learn/lecture/17827716?start=15#overview)
--  Refinamento do WebApp Papilo e o lançamento da v1.0.0 para operar corretamente em dispositivos Mobile.
+-  Aprofundando conhecimentos em Angular, JavaScript e Pré-processadores CSS
+-  Em busca da certificação AZ-900 
 
 ##
  <div>
