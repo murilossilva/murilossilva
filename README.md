@@ -17,23 +17,23 @@
  <h3 align="left"> Resumo pessoal</h3>
    
 -  👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas pelo SENAC (no quarto semestre, 2023)
--  🌱 Estudando: Serviços e conceitos do Microsoft Azure para certificação AZ-900
--  💻 Possuo aprendizados em Angular, COBOL, Python e AWS Cloud.
+-  🌱 Estudando: Serviços e conceitos do Microsoft Azure para certificação AI-900
+-  💻 Possuo aprendizados em Angular, COBOL, Python e AWS/Azure Cloud.
 -  🐧 Linux User! ~~Eu uso Ubuntu btw~~
 -  😄 Amante de problemas lógicos e entusiasta de UX Design!
 -  👨‍🏫 Um dos idealizadores além de ser o programador do [WebApp Papilo](http://papilo.com.br/)!
   
   <h3 aligh="left"> Conquistas Recentes 🏆</h3>
   
-- 💻 [Certificação AWS Cloud Practitioner](https://www.linkedin.com/feed/update/urn:li:activity:6996074539075940354/)
-- 📜 [Certificação Entendendo TypeScript](https://www.linkedin.com/feed/update/urn:li:activity:7013873101625028609/), curso  voltado para conceitos mais avançados da linguagem, como Generics, Decorators, integração com ferramentas de build e etc.
+- 💻 [Certificação AZ-900](https://www.linkedin.com/feed/update/urn:li:activity:7026565311587848192/)
+- 📜 [Certificação Entendendo TypeScript](https://www.linkedin.com/feed/update/urn:li:activity:7013873101625028609/), curso voltado para conceitos mais avançados da linguagem, como Generics, Decorators, integração com ferramentas de build e etc.
 - 🌐 Lançamento do WebApp sobre Educação Sexual chamado [Papilo](http://papilo.com.br/).
 - 📰 Publicação do Papilo no [Jornal da USP](https://jornal.usp.br/diversidade/estudantes-de-biologia-da-usp-criam-plataforma-de-educacao-sexual/)
 
 <h3 align="left"> Em progresso 🏃‍♂️</h3>
   
--  Aprofundando conhecimentos em Angular, JavaScript e Pré-processadores CSS
--  Em busca da certificação AZ-900 
+-  Aprofundando conhecimentos em Angular e JavaScript
+-  Em busca da certificação AI-900 
 
 ##
  <div>
