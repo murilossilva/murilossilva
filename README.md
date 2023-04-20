@@ -25,7 +25,7 @@
   
   <h3 aligh="left"> Conquistas Recentes 🏆</h3>
   
-- 💻 [Certificação AZ-900](https://www.linkedin.com/feed/update/urn:li:activity:7026565311587848192/)
+- 💻 [Certificação AI-900](https://www.linkedin.com/feed/update/urn:li:activity:7054817616032317440)
 - 📜 [Certificação Entendendo TypeScript](https://www.linkedin.com/feed/update/urn:li:activity:7013873101625028609/), curso voltado para conceitos mais avançados da linguagem, como Generics, Decorators, integração com ferramentas de build e etc.
 - 🌐 Lançamento do WebApp sobre Educação Sexual chamado [Papilo](http://papilo.com.br/).
 - 📰 Publicação do Papilo no [Jornal da USP](https://jornal.usp.br/diversidade/estudantes-de-biologia-da-usp-criam-plataforma-de-educacao-sexual/)
@@ -33,7 +33,7 @@
 <h3 align="left"> Em progresso 🏃‍♂️</h3>
   
 -  Aprofundando conhecimentos em Angular e JavaScript
--  Em busca da certificação AI-900 
+-  Em busca da certificação AWS Associate Solutions Architect
 
 ##
  <div>
